@@ -1,5 +1,7 @@
 # March Madness Bracket Prediction Engine
 
+Tried and tested in the 2025 March Madness Bracket. Achieved approximately 97% accuracy, and being tweaked in time for the 2026 one.
+
 A production-grade NCAA tournament bracket prediction engine using advanced ML, feature-rich modeling, probability calibration, and full-tournament simulation.
 
 ## Features
